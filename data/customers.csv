@@ -1,0 +1,51 @@
+Customer_ID,Customer_Name,City,State,Age
+1,Aarav,Thrissur,Kerala,19
+2,Ananya,Coimbatore,Tamil Nadu,33
+3,Arjun,Chennai,Tamil Nadu,26
+4,Diya,Thrissur,Kerala,52
+5,Ishaan,Thiruvananthapuram,Kerala,55
+6,Meera,Jaipur,Rajasthan,20
+7,Rohan,Kochi,Kerala,23
+8,Sneha,Mysuru,Karnataka,32
+9,Vivek,Bhubaneswar,Odisha,56
+10,Priya,Kochi,Kerala,53
+11,Aditya,Mysuru,Karnataka,59
+12,Kavya,Lucknow,Uttar Pradesh,44
+13,Rahul,Chennai,Tamil Nadu,46
+14,Neha,Coimbatore,Tamil Nadu,18
+15,Kiran,Bengaluru,Karnataka,45
+16,Akhil,Mumbai,Maharashtra,35
+17,Amrita,Kannur,Kerala,31
+18,Nikhil,Mumbai,Maharashtra,24
+19,Pooja,Thiruvananthapuram,Kerala,42
+20,Sanjay,Thrissur,Kerala,40
+21,Varun,Pune,Maharashtra,56
+22,Lakshmi,Coimbatore,Tamil Nadu,20
+23,Manu,Ahmedabad,Gujarat,52
+24,Divya,Thrissur,Kerala,42
+25,Sreehari,Thiruvananthapuram,Kerala,53
+26,Anjali,Hyderabad,Telangana,58
+27,Abhinav,Pune,Maharashtra,54
+28,Swathi,Mysuru,Karnataka,22
+29,Rakesh,Kozhikode,Kerala,60
+30,Asha,Chennai,Tamil Nadu,36
+31,Harish,Thiruvananthapuram,Kerala,32
+32,Reshma,Thrissur,Kerala,42
+33,Mohan,Coimbatore,Tamil Nadu,47
+34,Gopika,Pune,Maharashtra,28
+35,Naveen,Pune,Maharashtra,40
+36,Keerthi,Mysuru,Karnataka,60
+37,Vishnu,Coimbatore,Tamil Nadu,59
+38,Fathima,Thiruvananthapuram,Kerala,56
+39,Joel,Bengaluru,Karnataka,52
+40,Athira,Chennai,Tamil Nadu,28
+41,Suraj,Ahmedabad,Gujarat,42
+42,Nandana,Coimbatore,Tamil Nadu,58
+43,Deepak,Lucknow,Uttar Pradesh,32
+44,Greeshma,Mumbai,Maharashtra,21
+45,Ajay,Chennai,Tamil Nadu,20
+46,Parvathy,Mumbai,Maharashtra,43
+47,Ravi,Coimbatore,Tamil Nadu,22
+48,Sona,Mysuru,Karnataka,54
+49,Jithin,Mumbai,Maharashtra,31
+50,Maya,Kolkata,West Bengal,43

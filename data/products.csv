@@ -1,0 +1,31 @@
+Product_ID,Product_Name,Category,Price
+1,Wireless Mouse,Electronics,799
+2,Mechanical Keyboard,Electronics,2499
+3,USB-C Cable,Electronics,499
+4,Bluetooth Speaker,Electronics,1899
+5,Power Bank,Electronics,1499
+6,Smart Watch,Electronics,3999
+7,Laptop Stand,Accessories,1299
+8,Webcam,Electronics,2299
+9,Headphones,Electronics,2999
+10,Phone Case,Accessories,599
+11,Notebook,Stationery,199
+12,Ball Pen Set,Stationery,149
+13,Backpack,Bags,1799
+14,Water Bottle,Home & Kitchen,699
+15,Desk Lamp,Home & Kitchen,1199
+16,Coffee Mug,Home & Kitchen,349
+17,Table Clock,Home & Kitchen,899
+18,Yoga Mat,Fitness,999
+19,Resistance Band,Fitness,599
+20,Running Shoes,Footwear,3499
+21,Casual Shoes,Footwear,2499
+22,T-Shirt,Clothing,799
+23,Jeans,Clothing,1999
+24,Jacket,Clothing,2999
+25,Sunglasses,Fashion,1299
+26,Wallet,Fashion,999
+27,Handbag,Fashion,2199
+28,Bluetooth Earbuds,Electronics,2799
+29,External Hard Drive,Electronics,5499
+30,USB Flash Drive,Electronics,899

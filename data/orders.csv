@@ -1,0 +1,81 @@
+Order_ID,Customer_ID,Order_Date,Payment_Mode,Order_Status
+1,42,2026-04-28,Credit Card,Completed
+2,9,2026-03-05,Net Banking,Pending
+3,17,2026-07-11,Net Banking,Shipped
+4,38,2026-04-13,Debit Card,Completed
+5,9,2026-05-11,Cash on Delivery,Completed
+6,49,2026-01-13,UPI,Completed
+7,41,2026-02-10,Cash on Delivery,Pending
+8,5,2026-04-09,Cash on Delivery,Pending
+9,30,2026-05-16,Debit Card,Pending
+10,1,2026-06-24,UPI,Cancelled
+11,35,2026-07-12,Debit Card,Cancelled
+12,22,2026-01-29,Debit Card,Shipped
+13,11,2026-04-27,UPI,Cancelled
+14,47,2026-03-09,Net Banking,Completed
+15,33,2026-08-22,UPI,Cancelled
+16,20,2026-08-04,Net Banking,Pending
+17,13,2026-02-09,Debit Card,Completed
+18,35,2026-07-19,Net Banking,Completed
+19,39,2026-03-24,Cash on Delivery,Completed
+20,8,2026-08-26,Debit Card,Completed
+21,16,2026-01-15,Credit Card,Pending
+22,6,2026-01-22,Cash on Delivery,Completed
+23,49,2026-05-17,Credit Card,Completed
+24,43,2026-05-02,Net Banking,Completed
+25,17,2026-05-16,Net Banking,Shipped
+26,14,2026-08-26,Net Banking,Cancelled
+27,45,2026-02-21,Debit Card,Shipped
+28,43,2026-06-16,Debit Card,Shipped
+29,34,2026-04-26,UPI,Completed
+30,15,2026-01-17,Debit Card,Completed
+31,38,2026-05-22,Credit Card,Pending
+32,15,2026-01-02,UPI,Cancelled
+33,41,2026-01-16,Credit Card,Completed
+34,3,2026-08-09,Debit Card,Completed
+35,33,2026-03-02,Debit Card,Cancelled
+36,32,2026-02-24,Net Banking,Completed
+37,47,2026-08-28,Net Banking,Pending
+38,31,2026-03-04,Cash on Delivery,Shipped
+39,13,2026-01-25,UPI,Cancelled
+40,28,2026-04-01,Cash on Delivery,Shipped
+41,30,2026-08-10,UPI,Cancelled
+42,42,2026-06-15,UPI,Completed
+43,26,2026-07-06,Debit Card,Completed
+44,16,2026-02-19,Credit Card,Pending
+45,29,2026-02-05,Cash on Delivery,Completed
+46,18,2026-04-29,Credit Card,Completed
+47,29,2026-07-26,Net Banking,Completed
+48,4,2026-06-16,Net Banking,Completed
+49,6,2026-08-26,Credit Card,Completed
+50,27,2026-05-05,Cash on Delivery,Completed
+51,26,2026-08-20,UPI,Completed
+52,25,2026-01-01,Cash on Delivery,Completed
+53,30,2026-03-15,Cash on Delivery,Cancelled
+54,47,2026-07-20,Net Banking,Cancelled
+55,46,2026-05-05,Credit Card,Completed
+56,19,2026-02-25,UPI,Pending
+57,48,2026-05-19,UPI,Cancelled
+58,21,2026-01-15,UPI,Pending
+59,31,2026-05-09,Net Banking,Completed
+60,4,2026-05-11,UPI,Completed
+61,5,2026-06-02,UPI,Cancelled
+62,16,2026-04-14,UPI,Pending
+63,16,2026-05-29,Net Banking,Completed
+64,40,2026-01-21,Cash on Delivery,Cancelled
+65,38,2026-05-25,Net Banking,Completed
+66,17,2026-02-22,Debit Card,Completed
+67,17,2026-04-12,Credit Card,Cancelled
+68,42,2026-03-18,Cash on Delivery,Completed
+69,49,2026-08-28,UPI,Completed
+70,30,2026-06-09,Net Banking,Completed
+71,5,2026-05-18,Credit Card,Pending
+72,17,2026-02-03,Debit Card,Completed
+73,16,2026-04-05,Debit Card,Completed
+74,29,2026-08-02,Net Banking,Cancelled
+75,20,2026-06-06,Net Banking,Completed
+76,43,2026-07-29,Net Banking,Completed
+77,43,2026-01-27,Credit Card,Completed
+78,8,2026-08-16,UPI,Cancelled
+79,36,2026-02-09,Debit Card,Completed
+80,39,2026-02-23,Debit Card,Completed
